@@ -1,0 +1,12 @@
+ACME LOGISTICS INC.
+123 Business Rd, Suite 100
+Invoice No: INV-2026-8891
+Date: 2026-09-15
+
+Items Delivered:
+- Server Rack Enclosure x2 @ $450.00 each -> $900.00
+- Cat6a Ethernet Cables (Pack of 10) x5 @ $30.00 each -> $150.00
+
+Sub Total: $1050.00
+Tax (8%): $84.00
+Total Due: $1134.00

@@ -1,0 +1,44 @@
+NORTHSTAR TECHNOLOGIES PVT LTD
+GSTIN: 07AABCN1234F1Z5
+Office: 42 Industrial Area, New Delhi
+
+TAX INVOICE
+
+Inv No. NS/2026/0472
+Dt: 08-10-2026
+
+Bill To:
+Horizon Computing Solutions
+New Delhi
+
+ITEMS
+
+1. Mechanical Keyboard
+   Qty 2
+   Rate 2,499.00
+   Amount 4,998.00
+
+2. Wireless Mouse
+   Qty: 3
+   Rate: Rs. 1,299
+   Amount Rs1299.00 x 3 = 3897.00
+
+3. USB-C Hub 7-in-1
+   QTY 2 @ 1,899.50
+   TOTAL 3,799.00
+
+4. HDMI Cable 2m
+   4 pcs x Rs 450 = Rs 1,800
+
+Sub Total       14,494.00
+CGST 9%          1,304.46
+SGST 9%          1,304.46
+
+Round Off           -0.92
+
+TOTAL PAYABLE    Rs 17,102.00
+
+Payment: UPI
+Currency: INR
+
+Thank you for your business.
